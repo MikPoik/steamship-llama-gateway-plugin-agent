@@ -2,6 +2,9 @@ src/.steamship/secrets.toml
 .steamship/secrets.toml
 
 .pythonlibs
+.poetry.lock
+.poetry.toml
+.pyproject.toml
 
 # Coverage.py
 htmlcov/
