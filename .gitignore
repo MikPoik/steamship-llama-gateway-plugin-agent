@@ -1,6 +1,7 @@
 src/.steamship/secrets.toml
 .steamship/secrets.toml
 
+.logs
 .pythonlibs
 .poetry.lock
 .poetry.toml
